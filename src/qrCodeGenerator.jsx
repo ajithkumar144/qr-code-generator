@@ -64,6 +64,7 @@ export const QrCodeGenerator = () => {
             <button className="download_qr" onClick={download_qr}>Download Qr Code</button>
 
         </div>
+        <p style={{textAlign:"center",color:"#666",marginTop:"20px",fontSize:"12px"}}>Designed by Ajith Kumar</p>
 
     </div>
   )
